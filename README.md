@@ -1,7 +1,8 @@
 # Grande Ryan aqui 👋
 
 - Apenas os repositórios de um cara apaixonado por desenvolvimento web.
-- Amante de JavaScript (já já ela perde o posto).
+- Amante da tecnologia e computação.
+- Futuro Desenvolverdo Web Full-Stack
 
 Acompanhe esse perfil ficar lotado de projetos interessantes que mostram minha evolução como dev e, principalmente, minha trajetória no mundo da programação.
 
