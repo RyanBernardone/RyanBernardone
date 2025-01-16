@@ -1,5 +1,11 @@
-## Hi there 👋
+# Grande Ryan aqui 👋
 
+- Apenas os repositórios de uma cara apaixonado por desenvolvimento web.
+- Amante de JavaScript (já já ela perde o posto).
+
+Acompanhe esse perfil ficar lotado de projetos interessantes que mostram minha evolução como dev e, principalmente, minha trajetória no mundo da programação.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 <!--
 **RyanBernardone/RyanBernardone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
